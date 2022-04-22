@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adeola-creator
-- 👀 I’m interested in web and block chain development
+- 👀 I’m interested in web and dated science 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any project that will sharpen my skills
 - 📫 How to reach me meetprecious1403@gmail.com
