@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adeola_Samuel
+- 👋 Hi, I’m Adeola Samuel
 - 👀 I’m interested in web development and data science 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any project that will sharpen my skills
